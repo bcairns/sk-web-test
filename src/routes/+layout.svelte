@@ -15,7 +15,7 @@
 	{#if $settings.col12}
 		<div class="">
 			<MaxWidthAndPadding class="flex gap justify-between py-4">
-				<div class="">LOGO (12-column, baseline default)</div>
+				<div class="">COMPANY NAME (12-column, baseline default)</div>
 				<div class="">Menu</div>
 			</MaxWidthAndPadding>
 		</div>
@@ -24,7 +24,7 @@
 		{#if $settings.col14}
 			<div class="bg-gray-800">
 				<MaxWidthAndPadding xl class="flex gap justify-between py-4">
-					<div class="">LOGO (14-column fixed grid, "XL")</div>
+					<div class="">COMPANY NAME (14-column fixed grid, "XL")</div>
 					<div class="">Menu</div>
 				</MaxWidthAndPadding>
 			</div>
@@ -32,7 +32,7 @@
 		{#if $settings.col16}
 			<div class="">
 				<MaxWidthAndPadding xl16 class="flex gap justify-between py-4">
-					<div class="">LOGO (16-column fixed grid)</div>
+					<div class="">COMPANY NAME (16-column fixed grid)</div>
 					<div class="">Menu</div>
 				</MaxWidthAndPadding>
 			</div>
@@ -40,7 +40,7 @@
 		{#if $settings.col18}
 			<div class="bg-gray-800">
 				<MaxWidthAndPadding xl18 class="flex gap justify-between py-4">
-					<div class="">LOGO (18-column fixed grid)</div>
+					<div class="">COMPANY NAME (18-column fixed grid)</div>
 					<div class="">Menu</div>
 				</MaxWidthAndPadding>
 			</div>
@@ -51,7 +51,7 @@
 		{#if $settings.col14}
 			<div class="">
 				<FluidMaxWidthAndPadding xl class="flex gap justify-between py-4">
-					<div class="">LOGO (14-column fluid)</div>
+					<div class="">COMPANY NAME (14-column fluid)</div>
 					<div class="">Menu</div>
 				</FluidMaxWidthAndPadding>
 			</div>
@@ -59,7 +59,7 @@
 		{#if $settings.col16}
 			<div class="bg-gray-800">
 				<FluidMaxWidthAndPadding xl16 class="flex gap justify-between py-4">
-					<div class="">LOGO (16-column fluid)</div>
+					<div class="">COMPANY NAME (16-column fluid)</div>
 					<div class="">Menu</div>
 				</FluidMaxWidthAndPadding>
 			</div>
@@ -67,7 +67,7 @@
 		{#if $settings.col18}
 			<div class="">
 				<FluidMaxWidthAndPadding xl18 class="flex gap justify-between py-4">
-					<div class="">LOGO (18-column fluid)</div>
+					<div class="">COMPANY NAME (18-column fluid)</div>
 					<div class="">Menu</div>
 				</FluidMaxWidthAndPadding>
 			</div>
@@ -75,7 +75,7 @@
 		{#if $settings.full}
 			<div class="bg-gray-800">
 				<FluidWidthAndPadding class="flex gap justify-between py-4">
-					<div class="">LOGO (full-width fluid)</div>
+					<div class="">COMPANY NAME (full-width fluid)</div>
 					<div class="">Menu</div>
 				</FluidWidthAndPadding>
 			</div>
@@ -93,7 +93,7 @@
 	{#if $settings.col12}
 		<div class="">
 			<MaxWidthAndPadding class="flex gap justify-between py-6">
-				<div class="">&copy; 2023 LOGO (12-column baseline default)</div>
+				<div class="">&copy; 2023 COMPANY NAME (12-column baseline default)</div>
 				<div class="">About | Legal | Privacy</div>
 			</MaxWidthAndPadding>
 		</div>
@@ -102,7 +102,7 @@
 		{#if $settings.col14}
 			<div class="bg-gray-450">
 				<MaxWidthAndPadding xl class="flex gap justify-between py-6">
-					<div class="">&copy; 2023 LOGO (14-column fixed grid, "XL")</div>
+					<div class="">&copy; 2023 COMPANY NAME (14-column fixed grid, "XL")</div>
 					<div class="">About | Legal | Privacy</div>
 				</MaxWidthAndPadding>
 			</div>
@@ -110,7 +110,7 @@
 		{#if $settings.col16}
 			<div class="">
 				<MaxWidthAndPadding xl16 class="flex gap justify-between py-6">
-					<div class="">&copy; 2023 LOGO (16-column fixed grid)</div>
+					<div class="">&copy; 2023 COMPANY NAME (16-column fixed grid)</div>
 					<div class="">About | Legal | Privacy</div>
 				</MaxWidthAndPadding>
 			</div>
@@ -118,7 +118,7 @@
 		{#if $settings.col18}
 			<div class="bg-gray-450">
 				<MaxWidthAndPadding xl18 class="flex gap justify-between py-6">
-					<div class="">&copy; 2023 LOGO (18-column fixed grid)</div>
+					<div class="">&copy; 2023 COMPANY NAME (18-column fixed grid)</div>
 					<div class="">About | Legal | Privacy</div>
 				</MaxWidthAndPadding>
 			</div>
@@ -129,7 +129,7 @@
 		{#if $settings.col14}
 			<div class="">
 				<FluidMaxWidthAndPadding xl class="flex gap justify-between py-6">
-					<div class="">&copy; 2023 LOGO (14-column fluid)</div>
+					<div class="">&copy; 2023 COMPANY NAME (14-column fluid)</div>
 					<div class="">About | Legal | Privacy</div>
 				</FluidMaxWidthAndPadding>
 			</div>
@@ -137,7 +137,7 @@
 		{#if $settings.col16}
 			<div class="bg-gray-450">
 				<FluidMaxWidthAndPadding xl16 class="flex gap justify-between py-6">
-					<div class="">&copy; 2023 LOGO (16-column fluid)</div>
+					<div class="">&copy; 2023 COMPANY NAME (16-column fluid)</div>
 					<div class="">About | Legal | Privacy</div>
 				</FluidMaxWidthAndPadding>
 			</div>
@@ -145,7 +145,7 @@
 		{#if $settings.col18}
 			<div class="">
 				<FluidMaxWidthAndPadding xl18 class="flex gap justify-between py-6">
-					<div class="">&copy; 2023 LOGO (18-column fluid)</div>
+					<div class="">&copy; 2023 COMPANY NAME (18-column fluid)</div>
 					<div class="">About | Legal | Privacy</div>
 				</FluidMaxWidthAndPadding>
 			</div>
@@ -153,7 +153,7 @@
 		{#if $settings.full}
 			<div class="bg-gray-450">
 				<FluidWidthAndPadding class="flex gap justify-between py-6">
-					<div class="">&copy; 2023 LOGO (full-width fluid)</div>
+					<div class="">&copy; 2023 COMPANY NAME (full-width fluid)</div>
 					<div class="">About | Legal | Privacy</div>
 				</FluidWidthAndPadding>
 			</div>
