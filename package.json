@@ -18,7 +18,6 @@
 		"eslint",
 		"sass",
 		"react",
-		"husky",
 		"postcss",
 		"sass",
 		"svelte starter",
@@ -44,7 +43,6 @@
 		"test:unit": "vitest",
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write .",
-		"prepare": "husky install",
 		"precommit": "lint-staged"
 	},
 	"lint-staged": {
