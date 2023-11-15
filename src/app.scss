@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+// standard gap
+.gap {
+  @apply gap-6;
+}
+
+@tailwind utilities;
